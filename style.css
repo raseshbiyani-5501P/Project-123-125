@@ -1,0 +1,39 @@
+#header{
+
+width: 100%;
+padding: 10px;
+border-radius: 10px;
+margin: 0;
+font-size: 20px;
+}
+
+#footer{
+
+width: 100%;
+position: fixed;
+bottom: 0;
+background-color: grey;
+padding: 5px;
+border-radius: 10px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 30px;
+margin-bottom: 0;
+color:white
+
+}
+
+#note{
+
+font-weight: bold;
+color: black;
+font-size: 18.5px;
+}
+
+canvas{
+
+background-color: rgb(144, 214, 249);
+border-style:groove;
+border-radius: 10px;
+box-shadow: 10px 10px 10px rgb(75, 75, 239);
+margin-bottom: 0;
+}
